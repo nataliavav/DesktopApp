@@ -1,0 +1,2 @@
+a text file with the word Hello
+new line with HELLO AS a word
