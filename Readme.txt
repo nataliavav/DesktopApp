@@ -8,4 +8,4 @@ Creation of a Desktop Application that has a graphical interface through which t
 The program finds the phrase in the text (regardless of whether they are written in lowercase or uppercase letters) and replaces it with uppercase letters. 
 
 The result is saved in a new file (located in the same folder as the original).
-The number of times the given word or phrase was found in the text is displayed in the user's screen.
+The number of times the given word or phrase was found in the text is displayed on the user's screen.
